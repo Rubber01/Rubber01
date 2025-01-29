@@ -4,8 +4,6 @@ public class AboutMe{
    
       public static String job = "Programmer";
     
-      public static String URL = 
-   
-                   "https://tinyurl.com/Rubber01";
+      public static String URL = "https://sites.google.com/view/biasotti-pietro/home";
                    
 }
